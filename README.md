@@ -12,6 +12,8 @@ Além disso, git é preferido para que se possa clonar o projeto.
 
 Para instalar o repositório, digite git clone https://github.com/goncalofrankefranco/onia.git em qualquer pasta para salvar os arquivos. Em seguida, entre na pasta do projeto e escreva pip install -r requirements.txt para garantir que todas as bibliotecas necessárias estão instaladas. Para executar FlorestaAleatoria.py, por exemplo, basta usar a IDE de sua preferência com Python configurado e rodar o código. Esse código procura Data/diabetes.csv a partir da pasta de execução, então é importante não embaralhar a hierarquia das pastas do projeto.
 
+Para executar a demonstração de trânsito, basta realizar o mesmo procedimento descrito acima mas com o arquivo Q-Learning.py.
+
 ## Exemplo
 
 Ao executar FlorestaAleatoria.py, com random_state=42, o código deverá imprimir as seguintes informações:
@@ -37,8 +39,7 @@ Confusion Matrix: [[69 30]
  Além disso -> todos os códigos de ML clássico, com seus datasets em /Data.
 
  ## Licença
- A licença utilizada é a do MIT, disponível em https://github.com/goncalofrankefranco/onia/blob/main/LICENSE
-
+ A licença utilizada é a do MIT, disponível em ![Licença](./LICENCE.txt)
  Texto da licença:
  MIT License
 
