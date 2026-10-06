@@ -39,7 +39,7 @@ Confusion Matrix: [[69 30]
  Além disso -> todos os códigos de ML clássico, com seus datasets em /Data.
 
  ## Licença
- A licença utilizada é a do MIT, disponível em ![Licença](./LICENCE)
+ A licença utilizada é a do MIT, disponível em ![Licença](./LICENSE)
  
  Texto da licença:
  MIT License
