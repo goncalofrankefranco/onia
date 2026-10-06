@@ -4,3 +4,4 @@ torch==2.14.1
 scikit-learn==1.9.1
 numpy==2.5.3
 tqdm==4.70.1
+seaborn==0.13.2
