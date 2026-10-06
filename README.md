@@ -2,15 +2,15 @@
 ### Estão reunidos aqui diversas demonstrações de modelos de ML Clássico, útil para quem gostaria de entender exemplos simples dos mesmos.
 
 ## Demonstração
-[<img width="673" height="662" alt="image" src="https://github.com/user-attachments/assets/f9a11f90-2e9b-4e97-8516-085a7134e863" />](https://github.com/goncalofrankefranco/onia/blob/main/demonstra%C3%A7%C3%A3o.png)
+![Demonstração](./demonstração.png)
 
 
 ## Instalação
-É necessário ter python, scikit-learn, pandas, matplotlib, numpy e pytorch instalados no sistema. As versões específicas estão disponíveis em https://github.com/goncalofrankefranco/onia/blob/main/requirements.txt
+É necessário ter python, scikit-learn, pandas, matplotlib, numpy, pytorch e tqdm instalados no sistema. As versões específicas estão disponíveis em https://github.com/goncalofrankefranco/onia/blob/main/requirements.txt
 
 Além disso, git é preferido para que se possa clonar o projeto. 
 
-Para instalar o repositório, digite git clone https://github.com/goncalofrankefranco/onia.git em qualquer pasta para salvar os arquivos. Depois, escreva pip install -r requirements.txt para garantir que todas as bibliotecas necessárias estão instaladas. Para executar FlorestaAleatoria.py, por exemplo, basta usar a IDE de sua preferência com Python configurado e rodar o código, dado que o código já encontra seu dataset automaticamente desde que o usuário não embaralhe os datasets.
+Para instalar o repositório, digite git clone https://github.com/goncalofrankefranco/onia.git em qualquer pasta para salvar os arquivos. Em seguida, entre na pasta do projeto e escreva pip install -r requirements.txt para garantir que todas as bibliotecas necessárias estão instaladas. Para executar FlorestaAleatoria.py, por exemplo, basta usar a IDE de sua preferência com Python configurado e rodar o código. Esse código procura Data/diabetes.csv a partir da pasta de execução, então é importante não embaralhar a hierarquia das pastas do projeto.
 
 ## Exemplo
 
