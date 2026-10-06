@@ -2,11 +2,11 @@
 ### Estão reunidos aqui diversas demonstrações de modelos de ML Clássico, útil para quem gostaria de entender exemplos simples dos mesmos.
 
 ## Demonstração
-![Demonstração](./demonstração.png)
+![Demonstração](./assets/demo.png)
 
 
 ## Instalação
-É necessário ter python, scikit-learn, pandas, matplotlib, numpy, pytorch e tqdm instalados no sistema. As versões específicas estão disponíveis em https://github.com/goncalofrankefranco/onia/blob/main/requirements.txt
+É necessário ter python, scikit-learn, pandas, matplotlib, numpy, pytorch, tqdm e seaborn instalados no sistema. As versões específicas estão disponíveis em https://github.com/goncalofrankefranco/onia/blob/main/requirements.txt
 
 Além disso, git é preferido para que se possa clonar o projeto. 
 
